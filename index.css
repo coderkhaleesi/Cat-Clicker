@@ -1,0 +1,26 @@
+
+header{
+  width:100%;
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+}
+
+li{
+  background-color: #33b5e5;
+  padding: 8px;
+  margin: 8px;
+}
+.top{
+  width: 100%;
+}
+.one{
+  width: 15%;
+  float: left;
+}
+
+.two{
+  width: 75%;
+  float:left;
+}
